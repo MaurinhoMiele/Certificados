@@ -24,7 +24,7 @@ Este repositório existe para facilitar:
 # 💻 Desenvolvimento com C#
 
 ### ✔️ **Aplicação em C# – Alura**  
-📄 Certificado: [Clique aqui](.csharp-criando-sua-primeira-aplicacao-alura.pdf)
+📄 Certificado: [Clique aqui](./csharp-criando-sua-primeira-aplicacao-alura.pdf)
 
 
 ### ✔️ **Orientação a Objetos em C# – Alura**  
