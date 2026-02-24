@@ -26,18 +26,23 @@ Este repositório existe para facilitar:
 ### ✔️ **Aplicação em C# – Alura**  
 📄 Certificado: [Clique aqui](.csharp-criando-sua-primeira-aplicacao-alura.pdf)
 
+
 ### ✔️ **Orientação a Objetos em C# – Alura**  
 📄 Certificado: [Clique aqui](./csharp-aplicando-a-orientacao-a-objetos-alura.pdf)  
+
 📄 Certificado: [Clique aqui](./csharp-dominando-orientacao-a-objetos-alura.pdf)  
+
 📄 Certificado: [Clique aqui](./csharp-orientacao-a-objetos-com-heranca-alura.pdf)
-📄 Certificado: [Clique aqui](.csharp-orientacao-a-objetos-com-encapsulamento-alura.pdf) 
-📄 Certificado: [Clique aqui](.csharp-orientacao-a-objetos-com-polimorfismo-alura.pdf)
+
+📄 Certificado: [Clique aqui](./csharp-orientacao-a-objetos-com-encapsulamento-alura.pdf) 
+
+📄 Certificado: [Clique aqui](./csharp-orientacao-a-objetos-com-polimorfismo-alura.pdf)
 
 ### ✔️ **Trabalhando com Arquivos (System.IO)**  
 📄 Certificado: [Clique aqui](./csharp-trabalhando-com-arquivos-alura.pdf)
 
 ### ✔️ **Coleções e LINQ**  
-📄 Certificado: [Clique aqui](./certificados/csharp-consumindo-api-gravando-arquivos-linq.pdf)
+📄 Certificado: [Clique aqui](./csharp-consumindo-api-gravando-arquivos-linq.pdf)
 
 ---
 
