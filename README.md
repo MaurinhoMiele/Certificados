@@ -55,9 +55,8 @@ Este repositório existe para facilitar:
 
 # 🚀 Bootcamps
 
-### ✔️ **DIO + TIVIT — .NET com GitHub Copilot**  
-📌 Status: Em andamento  
-📄 Certificado: *(adicionar link quando disponível)*
+### ✔️ **DIO + TIVIT — .NET com GitHub Copilot**   
+📄 Certificado: [net-github-copilot](./NET-GitHub-Copilot-certificacao.pdf)
 
 ---
 
