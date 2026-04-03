@@ -59,10 +59,13 @@ Este repositório existe para facilitar:
 📌 Status: Em andamento  
 📄 Certificado: *(adicionar link quando disponível)*
 
+---
+
 # Desenvolvimento Front-End
 
-### devClub - Programação com IA
-📄 Certificado: [Front-End](./Imersao-Programacao-IA-certificacao.pdf)
+### **devClub - Programação com IA**
+📄 Certificado: [front-end](./Imersao-Programacao-IA-certificacao.pdf)
+
 ---
 
 # 📂 Estrutura deste repositório
