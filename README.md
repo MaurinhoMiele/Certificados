@@ -53,7 +53,7 @@ Este repositório existe para facilitar:
 
 
 ### ✔️ **Introdução a LLMs.**
-📄 Certificado: [LLMs](./)
+📄 Certificado: [LLMs](./Introdução-a-LLMs-SERRATEC.pdf)
 
 ---
 
