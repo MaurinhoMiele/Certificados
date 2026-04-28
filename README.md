@@ -51,6 +51,10 @@ Este repositório existe para facilitar:
 ### ✔️ **Agente de IA – Hashtag Treinamentos**  
 📄 Certificado: [agente ia](./csharp-validacao-certificado.pdf)
 
+
+### ✔️ **Introdução a LLMs.**
+📄 Certificado: [LLMs](./)
+
 ---
 
 # 🚀 Bootcamps
