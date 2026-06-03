@@ -55,6 +55,10 @@ Este repositório existe para facilitar:
 ### ✔️ **Introdução a LLMs.**
 📄 Certificado: [LLMs](./Introdução-a-LLMs-SERRATEC.pdf)
 
+
+### ✔️ **Formação Inteligência Artificial: Do Zero ao Avançado (2026).**
+📄 Certificado: [Formação Inteligência Artificial](./em desenvolvimento)
+
 ---
 
 # 🚀 Bootcamps
